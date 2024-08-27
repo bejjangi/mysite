@@ -3,4 +3,4 @@ title: Hello
 layout: default
 ---
 
-readme Hello!
+Index Hello!
